@@ -1,6 +1,6 @@
 # support
 Apple and state laws requires information on how to contact me via URL for LCTO-14 support.
-My website for support is https://TomEphraimPerez.github.io/support/
+My website for support is **https://TomEphraimPerez.github.io/support/**
 ->
 On another note re; privacy:
 I, nor this app - "LCTO-14", nor anyone else, nor any other entity whatsoever, DOES NOT COLLECT ANY DATA from any user, ever.
@@ -12,7 +12,7 @@ This is done by posting a grocery product. Say for sake of argument, it's called
 Since the cloud database is practically emtpy initially upon deployment of this app to the public,
 there will be few products that can be searched. 
 Please help fellow shoppers make the right choice for them to be satisfied with their purchases.
-• Usage
+**• Usage**
 In the lower portion of the app's landing screen, shopper_A can comment on myProduct100.
 This will be a kind gesture of shopper-A, since shopper-A searched for it upon launching LCTO-14,
 but the app returned a message saying that there's nothing for myProduct100 in the cloud DB yet.
@@ -31,7 +31,7 @@ There are 2 buttons
 1/2) Search_Product, and
 2/2) Post comment
 •
-• Closing thoughts
+**• Closing thoughts**
 More features are on the way, once I and we, all pitch in to populate the Apple cloud DB.
 Please be generous and respectful of others, and help fellow shoppers make the right choice
 for them to be satisfied with their purchases.
