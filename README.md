@@ -32,6 +32,7 @@ There are 2 buttons
 1/2) Search_Product, and
 2/2) Post comment
 •
+<br />
 **• Closing thoughts**
 More features are on the way, once I and we, all pitch in to populate the Apple cloud DB.
 Please be generous and respectful of others, and help fellow shoppers make the right choice
