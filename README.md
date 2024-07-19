@@ -12,6 +12,7 @@ This is done by posting a grocery product. Say for sake of argument, it's called
 Since the cloud database is practically emtpy initially upon deployment of this app to the public,
 there will be few products that can be searched. 
 Please help fellow shoppers make the right choice for them to be satisfied with their purchases.
+<br />
 **• Usage**
 In the lower portion of the app's landing screen, shopper_A can comment on myProduct100.
 This will be a kind gesture of shopper-A, since shopper-A searched for it upon launching LCTO-14,
