@@ -56,4 +56,5 @@ Please be generous and respectful of others, and help fellow shoppers make the r
 for them to be satisfied with their purchases.
 <br />
 •
-Enjoy "Let's Check This Out" (LCTO)
+Enjoy "Let's Check This Out" (**LCTO**)
+
