@@ -34,9 +34,9 @@ The comment contains 3 parts that shopper-A fills in -
 <br />
 •
 <br />
-Now that shopper-A was kind enough to take a minute to help others by entering an otherwise
+*Now that shopper-A was kind enough to take a minute to help others by entering an otherwise
 unsearchable product, other shoppers searching for myProduct100 can now see how myProduct100
-performs, if you will.
+performs, if you will.*
 <br />
 •
 <br />
