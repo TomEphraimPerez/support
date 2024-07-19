@@ -5,7 +5,7 @@ My website for support is https://TomEphraimPerez.github.io/support/
 On another note re; privacy:
 I, nor this app - "LCTO-14", nor anyone else, nor any other entity whatsoever, DOES NOT COLLECT ANY DATA from any user, ever.
 ->
-A guick usage guide:
+**A guick usage guide**:
 • Introduction
 This app is for the common-good, and is an app that helps shoppers help other shoppers.
 This is done by posting a grocery product. Say for sake of argument, it's called "myProduct100".
