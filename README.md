@@ -1,10 +1,11 @@
 # support
 Apple and state laws requires information on how to contact me via URL for LCTO-14 support.
 My website for support is **https://TomEphraimPerez.github.io/support/**
-->
+<br />
 On another note re; privacy:
 I, nor this app - "LCTO-14", nor anyone else, nor any other entity whatsoever, DOES NOT COLLECT ANY DATA from any user, ever.
--> <br />
+<br />
+<br />
 **A guick usage guide**:
 • Introduction
 This app is for the common-good, and is an app that helps shoppers help other shoppers.
